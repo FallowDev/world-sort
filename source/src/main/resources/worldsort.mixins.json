@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "eu.fallowdeer.worldsort.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "ScreenMixin",
+    "SelectWorldAccessor",
+    "WorldListMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
