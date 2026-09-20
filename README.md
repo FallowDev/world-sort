@@ -18,3 +18,7 @@ The usual world search and buttons remain available, so you can still create, ed
 Hardcore worlds have their own category and do not appear under Survival. Worlds are filtered by their saved default game mode.
 
 The best part, it is completely client side!
+
+---
+
+<sub><img src="https://cdn.fallowdeer.eu/site/favicon.png" alt="Fallow Deer" width="14" height="14"><a href="https://fallowdeer.eu">© Fallow Deer 2026</a> <a href="https://fallowdeer.eu"></a></sub>
